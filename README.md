@@ -1,4 +1,11 @@
-## Hi there 👋
+# About Me
+
+- Currently Pursuing Bachelor's Degree in National Cheng Kung University 
+- Deep Reinforcement Learning Enthusiast
+- Taking Master's Courses since Sophomore
+- Understandings of Convex Optimizations and High Performance Computing
+- Most projects are private
+
 
 <!--
 **TheFantasticWarrior/TheFantasticWarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
